@@ -10,6 +10,9 @@
 # Eclipse files
 .classpath
 .project
+.metadata
+.metadata/ .plugins/
+.sonarlint/
 .settings/
 
 # Maven specific files
